@@ -14,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
     //comment in code for check how work GIT
     //коммент доя проверки работы GIT
 
+    //еще один коммент (commit)
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
