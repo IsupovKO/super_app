@@ -11,6 +11,9 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    //comment in code for check how work GIT
+    //коммент доя проверки работы GIT
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
